@@ -1,6 +1,6 @@
 # 使用 Selenium 和浏览器自动化抓取具有复杂导航的网站
 
-[![Promo](https://github.com/luminati-io/LinkedIn-Scraper/raw/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://www.bright.cn) 
+[![Promo](https://github.com/bright-cn/LinkedIn-Scraper/raw/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://www.bright.cn) 
 
 本指南将讲解如何利用 Selenium 和浏览器自动化来抓取具有复杂导航模式（如动态分页、无限滚动以及“加载更多”按钮等）的网站。
 
